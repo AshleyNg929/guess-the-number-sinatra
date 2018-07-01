@@ -17,16 +17,17 @@ p{
     display:block;
     background-color: purple;
     color:white;
-    width:5em;
-    height:5em;
+    width:8em;
+    height:8em;
     margin-left:auto;
     margin-right:auto;
     border-radius:2.5em;
-    line-height:5em;
+    line-height:8em;
   }
 .number{
-  font-size:4em;
-  width:200px;
+  font-size:2em;
+  width:100px;
+  height:80px;
   margin-bottom:1em;
   
 }
